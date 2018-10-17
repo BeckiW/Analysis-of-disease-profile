@@ -1,0 +1,6 @@
+User,Diabetes 2,Anxiety,Obesity,Depression,COPD
+U1,1,0,0,0,0
+U2,1,0,0,0,0
+U3,0,0,0,1,0
+U4,0,0,1,0,1
+U5,1,0,0,1,0

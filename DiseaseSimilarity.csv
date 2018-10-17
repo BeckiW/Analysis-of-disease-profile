@@ -1,0 +1,6 @@
+,Diabetes 2,Anxiety,Obesity,Depression,COPD
+Diabetes 2,1,0.2,0.8,0.2,0.4
+Anxiety,0.2,1,0.5,0.8,0.4
+Obesity,0.8,0.5,1,0.4,0.6
+Depression,0.2,0.8,0.4,1,0.3
+COPD,0.4,0.4,0.6,0.3,1
